@@ -1,7 +1,7 @@
 #随意设置的一个参数
 myblog:
-  name: 千万之路刚开始-author-hyh
-  url: http://www.hanyahong.com
-  location: BeiJing
+  name: 千里之行，始于足于-author-fmq
+  url: https://github.com/
+  location: sz
 config-client:
-  name: test
+  name: SpringCloud配置中心测试程序
